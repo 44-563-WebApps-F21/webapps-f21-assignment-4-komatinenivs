@@ -57,5 +57,5 @@
     text-shadow: 10px 10px blueviolet;
     border-style:ridge;
     border-color: black;
-    filter : blur(0.9px);
+    filter : blur(0.7px);
 }
