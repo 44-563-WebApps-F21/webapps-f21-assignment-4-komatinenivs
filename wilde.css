@@ -39,3 +39,22 @@
 .mrs_allonby{
     color:red;
 }
+
+.Style_table{
+    border-style:double;
+    border-color: black;
+    text-align: center;
+    margin: 25px 0px 0px 350px;
+}
+
+.row_column{
+    border-style: dashed;
+    border-color:yellowgreen;
+    padding: 20px;
+}
+
+.name_Hover:hover{
+    text-shadow: 10px 10px blueviolet;
+    border-style:ridge;
+    border-color: black;
+}
